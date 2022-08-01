@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">😊 Hola Soy  @Pridewolf Pero mi nombre es Agustín Samperi soy de Mendoza, Argentina <br>👀 De muy puequeño me surmergí en el mundo de la programación de forma autodidacta y me gustó tanto que sigo aprendiendo de ella hasta ahora <br>🌱 Actualmente estoy aprendiendo REACT con el stack MERN, pero he aprendido PHP(MVC) y se lo básico de Python, C++ y Java<br>📫 Me pueden Contactar a través  de este mail agussamperi@gmail.com :D<br>🎮 Tengo muchos hobbies pero me encantan los juegos la musica, la astronomia, la comida 🤤 y aprender de todo un poco</p>
+<p align="left">😊 Hola Soy  @Pridewolf Pero mi nombre es Agustín Samperi soy de Mendoza, Argentina <br>👀 Conocí la programación a mis 17 años y me surmergí en el mundo de la programación de forma autodidacta, aunque por tiempo lo deje <br>🌱 Actualmente estoy aprendiendo REACT con el stack MERN, pero he aprendido PHP(MVC) y se lo básico de Python, C++ y Java<br>📫 Me pueden Contactar a través  de este mail agussamperi@gmail.com :D<br>🎮 Tengo muchos hobbies pero me encantan los juegos la musica, la astronomia, la comida 🤤 y aprender de todo un poco</p>
 
 ###
 
