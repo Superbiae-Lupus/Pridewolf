@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Soy Agustin Samperi Un Apasionado Programador</h2>
+<h2 align="left">Hola 👋! Soy Agustin Samperi Un Apasionado Programador que es fanatico de la ciencia y los videojuegos</h2>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">😊 Hola Soy  @Pridewolf Pero mi nombre es Agustín Samperi soy de Mendoza, Argentina <br>👀 Conocí la programación a mis 17 años y me surmergí en este mundo de forma autodidacta <br>🌱 Actualmente estoy aprendiendo REACT con el stack MERN Y estoy aprendiendo Java con el curso de oracle, pero he aprendido PHP tanto en Backend como en FrontEnd, y otros lenguajes de programacion como Python, C++ <br>📫 Me pueden Contactar a través  de este mail agussamperi@gmail.com :D<br>🎮 Tengo muchos hobbies pero me encantan los juegos la musica, la astronomia, la comida 🤤 y aprender de todo un poco</p>
+<p align="left">😊 Hola Soy  @Pridewolf Pero mi nombre es Agustín Samperi soy de Mendoza, Argentina <br>👀 Conocí la programación a mis 17 años y me surmergí en este mundo de forma autodidacta porque era uno de mis hobbies <br>🌱 Actualmente soy fullstack en MERN, se sobre java y estoy cursando un bootcamp de Data Science, pero he aprendido PHP tanto en Backend como en FrontEnd, y otros lenguajes de programacion como  C++, Arduino <br>📫 Me pueden Contactar a través  de este mail agussamperi@gmail.com :D<br>🎮 Tengo muchos hobbies pero me encantan los juegos la musica, la astronomia, la comida 🤤 y aprender de todo un poco</p>
 
 ###
 
