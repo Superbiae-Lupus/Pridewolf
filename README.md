@@ -1,69 +1,127 @@
-<h2 align="left">Hola 👋! Soy Agustin Samperi Un Apasionado Programador que es fanatico de la ciencia y los videojuegos</h2>
 
-###
+<h1 align="center">Hola , Soy Agustín Samperi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DS+%7C+IA+%7C+DE;FullStack+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
+</p>
+<hr/>
+<h4 align="center">Soy desarrollador junior interesado por el mundo de la tecnologia, La programación fue algo que me encanto de niño pero siempre pense que tenia que estudiar en la universidad, hasta que encontre la manera de hacer autodidacta, empece a mis 17 años pero fui estudiando muy de a poco  por diferentes circunstancias , tengo conocimientos en Fullstack Web, actualmente estoy estudiando Data Science en un bootcamp.Me gusta codear, diseñar, crear, innovar y Experimentar. Soy un entusiasta de la vida, del aprendizaje, me encantan los retos porque terminas aprendiendo de los errores que haces. Me gusta intercambiar ideas ,difundir el conocimiento y la positividad.</h4>
+<br>
 
-<br clear="both">
+### 🔥 Streak Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Pridewolf" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Pridewolf" height="150" alt="languages graph"  />
-</div>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrideWolf&theme=dark&locale=es" alt="candida18"  /></p>
 
-###
+## 🛠️ My Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
-</div>
+### 👉 Programming languages
 
-###
-
-<p align="left">😊 Hola Soy  @Pridewolf Pero mi nombre es Agustín Samperi soy de Mendoza, Argentina <br>👀 Conocí la programación a mis 17 años y me surmergí en este mundo de forma autodidacta porque era uno de mis hobbies <br>🌱 Actualmente soy fullstack en MERN, se sobre java y estoy cursando un bootcamp de Data Science, pero he aprendido PHP tanto en Backend como en FrontEnd, y otros lenguajes de programacion como  C++, Arduino <br>📫 Me pueden Contactar a través  de este mail agussamperi@gmail.com :D<br>🎮 Tengo muchos hobbies pero me encantan los juegos la musica, la astronomia, la comida 🤤 y aprender de todo un poco</p>
-
-###
-
-<div align="left">
-  <a href="agussamperi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="left"> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/agustin-samperi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
-</div>
+</p>
 
-###
+### 👉 FullStack
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://www.reactjs.org/">
+    <img alt="React" src="https://img.shields.io/badge/ReactJS-blue?logo=react"/>
+  </a>
+</p>
 
-<br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/56/c6/48/56c648d499a8a37e5ed1b9e380ba7549.gif"  />
+### 👉 Data Science
 
-###
+  &emsp;
+    <a href="https://pandas.pydata.org/"><img alt="Static Badge" src="https://img.shields.io/badge/Pandas-gray?logo=pandas"></a>
+  &emsp;
+    <a href="https://numpy.org/doc/stable/index.html"><img alt="Static Badge" src="https://img.shields.io/badge/Numpy-lightblue?logo=numpy"></a>
+  &emsp;
+    <a href="https://scikit-learn.org/stable/user_guide.html"><img alt="Static Badge" src="https://img.shields.io/badge/Scikitlearn-aquamarine?logo=scikitlearn"></a>
+    
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+  &emsp;
+    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.mongodb.com/es"> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb"></a>
 
-###
+ </p>
+ 
+ ### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 
-<h2 align="left">Aprendiendo</h2>
 
-###
+</p>
 
-<br clear="both">
+<br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-</div>
+## 📊 Github Stats (Expand to View) 
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pridewolf" src="https://github-readme-stats.vercel.app/api?username=pridewolf&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pridewolf&show_icons=true&locale=en&layout=compact&theme=algolia" alt="pridewolf" height="192px"/>
+  <br/>
+  <b>Nota:</b>Esto no demuestra el nivel de habilidad de las diferentes tecnologias, si no la cantida de codigo que he subido ultimamente
+  </p>
+</details>
 
-###
+<br/>
 
-<!---
-Pridewolf/Pridewolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🙋🏽‍♂️  Contactame
+<p align="center">
+  <a href="https://asportfolio.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:agussamperi@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/PrideWolf"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/agustin-samperi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+</p>
+
+<hr/>
+* Credit: [Candida18](https://github.com/Candida18)
