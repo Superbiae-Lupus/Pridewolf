@@ -4,12 +4,10 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DS+%7C+IA+%7C+DA;FullStack+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">Soy desarrollador junior interesado por el mundo de la tecnologia, La programación fue algo que me encanto de niño pero siempre pense que tenia que estudiar en la universidad, hasta que encontre la manera de hacer autodidacta, empece a mis 17 años pero fui estudiando muy de a poco  por diferentes circunstancias , tengo conocimientos en Fullstack Web, actualmente estoy estudiando Data Science en un bootcamp.Me gusta codear, diseñar, crear, innovar y Experimentar. Soy un entusiasta de la vida, del aprendizaje, me encantan los retos porque terminas aprendiendo de los errores que haces. Me gusta intercambiar ideas ,difundir el conocimiento y la positividad.</h4>
+<h4 align="center">Soy desarrollador junior interesado por el mundo de la tecnologia, La programación fue algo que me encanto de chico(13 años) cuando hackeaba juegos en internet luego de varios años sin volver a saber, en la secundaria me dieron programacion 1, que me llamo la atencion de nuevo a mis 16 años, fui estudiando muy de a poco  por diferentes circunstancias. Tengo conocimientos en Fullstack Web, actualmente estoy estudiando Data Science en un bootcamp.Me gusta codear, diseñar, crear, innovar y Experimentar. Soy un entusiasta de la vida, del aprendizaje, me encantan los retos porque terminas aprendiendo de los errores que haces. Me gusta intercambiar ideas ,difundir el conocimiento y la positividad.</h4>
 <br>
 
-### 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=pridewolf&theme=dark&fire=0362EB&background=373030&border=A8ADEB&ring=24EBD5&stroke=5EA6EB&currStreakNum=FFFFFF&currStreakLabel=90DAEB" alt="candida18"  /></p>
 
 ## 🛠️ My Skills
 
@@ -124,4 +122,3 @@
 </p>
 
 <hr/>
-* Credit: [Candida18](https://github.com/Candida18)
