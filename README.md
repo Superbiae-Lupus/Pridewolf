@@ -94,23 +94,7 @@
 
 </p>
 
-<br/>
 
-## 📊 Github Stats (Expand to View) 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pridewolf" src="https://github-readme-stats.vercel.app/api?username=pridewolf&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pridewolf&show_icons=true&locale=en&layout=compact&theme=algolia" alt="pridewolf" height="192px"/>
-  <br/>
-  <b>Nota:</b>Esto no demuestra el nivel de habilidad de las diferentes tecnologias, si no la cantida de codigo que he subido ultimamente
-  </p>
-</details>
-
-<br/>
 
 ## 🙋🏽‍♂️  Contactame
 <p align="center">
